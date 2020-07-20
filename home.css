@@ -1,0 +1,82 @@
+
+h1
+{
+    font-size: 50px;
+}
+h2{
+    font-size: 50px;
+    color: grey;
+}
+
+hr{
+  width: 80%;
+  margin-left: 58px;
+  border: grey solid 0.5px;
+}
+
+.first-table{
+ border: solid 2px red;
+ border-radius: 10px;
+ width: 300px;
+ height: 500px;
+ 
+ float: left;
+ margin-left: 350px;
+
+}
+
+.second-table{
+ border: solid 2px red;
+ border-radius: 10px;
+ width: 300px;
+ height: 500px;
+ 
+ float: left;
+ margin-left: 150px;
+ margin-right: 150px;
+}
+
+.third-table{
+
+border: solid 2px red;
+ border-radius: 10px;
+ width: 300px;
+ height: 500px;
+
+ float: left;
+ margin-right: 300px;
+
+}
+.one{
+    color:#cc2727;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 2px;
+}
+
+.two{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 50px;
+    
+    
+}
+
+input[type='checkbox'] {
+    -webkit-appearance:none;
+    width:25px;
+    height:25px;
+    background:white;
+    border:2px solid #555;
+    
+}
+
+input[type='checkbox']:checked {
+    background: rgb(0, 2, 5);
+}
+
+a:visited{
+    color: green;
+}
